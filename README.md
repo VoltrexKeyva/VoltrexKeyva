@@ -13,4 +13,4 @@ You may know me from my work in the:
 
 I mostly work on programming language design and compilers, as well as web and internet standards, it's always amazing to see how far they go and the impact they have.
 
-You may also know me from [Discord](https://discord.com/) as `Voltrex#5888` (user ID: `544676649510371328`).
+You may also know me from [Discord](https://discord.com/) as `voltrexkeyva` (user ID: `544676649510371328`).
